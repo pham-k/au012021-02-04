@@ -8,7 +8,7 @@ Course ID: au012021-02-04
 # Material
 
 [Slide](https://drive.google.com/drive/folders/1YmEEcg8sI3tpbL8SwHMN5wKXhv9CazfK?usp=sharing)
-~~Textbook~~
+
 Further reading:
 - [The Art of R programming](https://www.oreilly.com/library/view/the-art-of/9781593273842/)
 - [Advanced R](https://adv-r.hadley.nz/)
