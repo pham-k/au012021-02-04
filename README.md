@@ -1,8 +1,11 @@
 ﻿# Description
 
 Subject name: Introduction to Programming and R
+
 Subject ID: 02-04
+
 Course name: Introduction to Programming and R - Autumn 2021
+
 Course ID: au012021-02-04
 
 # Material
