@@ -11,6 +11,7 @@ f_to_c <- function (temp) {
 
 }
 
-c_to_f(37)
-f_to_c(c_to_f(37))
+c_to_f(37) # 98.6
+f_to_c(c_to_f(37)) # 37
+
 

@@ -1,0 +1,34 @@
+- Class: meta
+  Course: Programming with R
+  Lesson: Basic building block
+  Author: your name goes here
+  Type: Standard
+  Organization: your organization's name goes here
+  Version: 2.4.5
+
+- Class: text
+  Output: Trong bài này, chúng ta sẽ làm quen với những thành phần cơ bản nhất trong R
+
+- Class: cmd_question
+  Output: Bạn hãy nhập 10 + 3 vào console và bấm Enter
+  CorrectAnswer: 10 + 3
+  AnswerTests: omnitest(correctExpr='10 + 3')
+  Hint: Nhập 10 + 3 rồi Enter
+
+- Class: text
+  Output: R có thể thực hiện tính toán như máy tính bỏ túi. Trong ví dụ trên, ký tự + được gọi là một operator.
+
+- Class: text
+  Output: Có 3 loại operator chính trong R. Chúng ta đẵ gặp loại thứ nhất là các phép tính số học như +, -, *, /
+
+- Class: cmd_question
+  Output: Bạn hãy thử chuyển đổi 37 độ C sang độ F theo công thức độ F = 1.8*(độ C) + 32
+  CorrectAnswer: 37 * 1.8 + 32
+  AnswerTests: omnitest(correctExpr='37 * 1.8 + 32')
+  Hint: Phép nhân là * và phép cộng là +
+
+- Class: cmd_question
+  Output: Bây giờ chúng ta thử chuyển ngược lại từ 98.6 độ F sang độ C theo công thức độ C = (độ F - 32) / 1.8
+  CorrectAnswer: (98.6 - 32) / 1.8
+  AnswerTests: omnitest(correctExpr='(98.6 - 32) / 1.8')
+  Hint: Phép chia là /. Bạn có thể sử dụng dấu ngoặc ( ) để đảm bảo đúng thứ tự của các phép tính
